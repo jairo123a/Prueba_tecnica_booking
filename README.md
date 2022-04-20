@@ -123,7 +123,7 @@ Se utiliza Git para el versionado del proyecto.
 
 ## Instalación
 - Para clonar este repositorio localmente, se debe ejecutar el siguiente comando: 
-```git clone https://grupobancolombia.visualstudio.com/Vicepresidencia%20Servicios%20de%20Tecnolog%C3%ADa/_git/ISINE0002_INE_TMN_TCB_Tarjetas_Debito_Mastercard_Test``` 
+```git clone https://github.com/jairo123a/Prueba_tecnica_booking.git
 - Importar el proyecto desde Eclipse o IntelliJ IDE bajo la estructura de un proyecto Gradle existente 
 - Configurar JRE System Library con JavaSE-1.8
 - Configurar la codificación a UTF-8 al proyecto una vez sea importado
@@ -132,10 +132,6 @@ Se utiliza Git para el versionado del proyecto.
 	- Importar el proyecto desde Eclipse o IntelliJ IDE bajo la estructura de un proyecto Gradle existente. 
 	- Configurar JRE System Library con JavaSE-1.8.	
 
-## Compilar el Proyecto
-Para compilar el proyecto debes ejecutar el comando:
-    
-    gradle clean build
 
 ## Empaquetar el Proyecto
 Para compilar el proyecto debes ejecutar el comando:
