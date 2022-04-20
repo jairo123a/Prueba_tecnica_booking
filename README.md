@@ -103,7 +103,7 @@ Al correr las pruebas tenga en cuenta lo siguiente:
 En caso de haber fallado saldrá una nueva ventana emergente donde se deberá indicar el motivo por el cual falló.
 
 - Finalmente si al momento de generarse el reporte este no genera la totalidad de los archivos en la carpeta target, es necesario ejecutar por medio de consola el comando <gradle aggregate> para que el reporte de serenity quede completo.
-para ello basta con verificar que exista el archivo "index" en la ruta INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/target/site/serenity
+para ello basta con verificar que exista el archivo "index" en la ruta booking_manual\target\site\serenity
 
  
 ##Herramientas utilizadas para crear el proyecto
@@ -123,7 +123,7 @@ Se utiliza Git para el versionado del proyecto.
 
 ## Instalación
 - Para clonar este repositorio localmente, se debe ejecutar el siguiente comando: 
-```git clone https://github.com/jairo123a/Prueba_tecnica_booking.git
+- git clone https://github.com/jairo123a/Prueba_tecnica_booking.git
 - Importar el proyecto desde Eclipse o IntelliJ IDE bajo la estructura de un proyecto Gradle existente 
 - Configurar JRE System Library con JavaSE-1.8
 - Configurar la codificación a UTF-8 al proyecto una vez sea importado
