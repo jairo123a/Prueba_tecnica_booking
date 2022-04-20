@@ -1,0 +1,103 @@
+# Clases compiladas
+
+/*.class
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.*class
+
+# Logs
+
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/logs
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/logs
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.logs
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.logs
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/log
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/log
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.log
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.log
+
+# Archivos comprimidos
+
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.war
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.nar
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.ear
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.zip
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.tar.gz
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.rar
+
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.war
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.nar
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.ear
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.zip
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.tar.gz
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.rar
+
+# Reportes serenity
+/INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/target
+/INE_TMN_TCB_Tarjetas_Debito_Mastercard/target
+
+# Gradle
+
+.gradle/
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.gradle
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/build
+/INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.gradle
+/INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/build
+
+# No ignorar el Gradle Wrapper
+!INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/gradle\wrapper\gradle-wrapper.jar
+!INE_TMN_TCB_Tarjetas_Debito_Mastercard/gradle/wrapper/gradle-wrapper.jar
+
+
+# Archivos eclipse
+
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.classpath
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.classpath
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.project
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.project
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.metadata
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.metadata
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/bin
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/bin
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/tmp
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/tmp
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.tmp
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.tmp
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.bak
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.bak
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.swp
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.swp
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*~.nib
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*~.nib
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/local.properties
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/local.properties
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.settings
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.settings
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.loadpath
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.loadpath
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.recommenders
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.recommenders
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.idea
+/INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/.idea
+/INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.idea
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/out
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/out
+
+# Locally stored "Eclipse launch configurations"
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/*.launch
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/*.launch
+
+### Sonar ###
+#Sonar generated dir
+
+INE_TMN_TCB_Tarjetas_Debito_Mastercard_Manual/manualtest/.sonar
+INE_TMN_TCB_Tarjetas_Debito_Mastercard/.sonar
+
+### Calidad Iseries ###
+.edp
+.edp/
+*/CALIDAD.edp/
+CALIDAD.edp
+*/*/*/*/CALIDAD.edp
+*/*/*/*/CALIDAD.edp/
+*/*/*/*/.edp/
+*/*/*/*/.edp
+/INE_TMN_TCB_Tarjetas_Debito_Mastercard/src/test/resources/*.EDP
